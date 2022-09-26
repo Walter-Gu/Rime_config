@@ -1,0 +1,12 @@
+name: luna_pinyin_simp.config
+version: "2022.06.02"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+    - luna_pinyin.td
+    - luna_pinyin.sougou
+    - luna_pinyin.python
+    - luna_pinyin.idiom
+    - luna_pinyin.poetry
+    - luna_pinyin.program
+    - luna_pinyin

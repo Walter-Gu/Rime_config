@@ -1,0 +1,46 @@
+name: luna_pinyin.td
+version: 1.0
+sort: by_weight
+use_preset_vocabulary: true
+
+闭包	bi bao	1
+并发	bing fa	1
+并行	bing xing	1
+重定向	chong ding xiang	1
+导包	dao bao	1
+对象	dui xiang	1
+多继承	duo ji cheng	1
+反向解析	fan xiang jie xi	1
+反转	fan zhuan	1
+父类	fu lei	1
+构造	gou zao	1
+继承	ji cheng	1
+解释器	jie shi qi	1
+进程	jin cheng	1
+框架	kuang jia	1
+类方法	lei fang fa	1
+类视图	lei shi tu	1
+类属性	lei shu xing	1
+路由	lu you	1
+魔法方法	mo fa fang fa	1
+模板	mu ban	1
+逆向解析	ni xiang jie xi	1
+浅拷贝	qian kao bei	1
+请求钩子	qing qiu gou zi	1
+深拷贝	shen kao bei	1
+实例	shi li	1
+视图	shi tu	1
+视图函数	shi tu han shu	1
+万物皆对象	wan wu jie dui xiang	1
+线程	xian cheng	1
+协程	xie cheng	1
+协议	xie yi	1
+鸭子类型	ya zi lei xing	1
+盐值	yan zhi	1
+异步执行	yi bu zhi xing	1
+源代码	yuan dai ma	1
+元类	yuan lei	1
+织入	zhi ru	1
+装饰器	zhuang shi qi	1
+自动	zi dong	1
+子类	zi lei	1
