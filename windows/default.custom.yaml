@@ -14,4 +14,4 @@ patch:
     Control_R: commit_code
     Shift_L: commit_code
     Shift_R: commit_code
-  "menu/page_size": 9
+  "menu/page_size": 6
